@@ -4,7 +4,7 @@
 
 [![Gem Version](https://badge.fury.io/rb/txtextcontrol-reportingcloud.svg)](https://badge.fury.io/rb/txtextcontrol-reportingcloud)
 
-This is the official Ruby SDK for the ReportingCloud Web API. It is authored, maintained and fully supported by [Text Control](http://www.textcontrol.com).
+This is the official Ruby SDK for the ReportingCloud Web API. It is authored, maintained and fully supported by [Text Control GmbH](http://www.textcontrol.com).
 
 [http://www.reporting.cloud](http://www.reporting.cloud)
 
